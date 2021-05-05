@@ -8,7 +8,7 @@ __        ___ _ _
    \_/\_/  |_|_|_|___/\___|_| |_| |_|
 ```
 
-> [BMSTU ICS7 LABORATORY WORKS](https://github.com/bmstu-ics7)
+> [<h3><img src="img/bmstu.png" height="20px" /> BMSTU ICS7 LABORATORY WORKS</h3>](https://github.com/bmstu-ics7)
 
 <div>
     <img alt="Willsem's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
