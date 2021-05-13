@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-```
-__        ___ _ _
-\ \      / (_) | |___  ___ _ __ ___
- \ \ /\ / /| | | / __|/ _ \ '_ ` _ \
-  \ V  V / | | | \__ \  __/ | | | | |
-   \_/\_/  |_|_|_|___/\___|_| |_| |_|
-```
+<p align="center">
+    <img alt="Willsem" src="img/willsem.png" />
+</p>
 
 > [<img src="img/bmstu.png" height="25px" valign="middle" /> <b valign="middle">BMSTU ICS7 LABORATORY WORKS</b>](https://github.com/bmstu-ics7)
 
