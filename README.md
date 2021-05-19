@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
     <img alt="Willsem" src="img/willsem.png" />
 </p>
