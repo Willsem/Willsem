@@ -12,15 +12,14 @@
             <img alt="Willsem's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
         </td>
         <td valign="top">
-            <img alt="Willsem's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsem&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+            <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
         </td>
     </tr>
 </table>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
+    <img alt="Willsem's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsem&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
-
 
 ### Languages
 
