@@ -17,6 +17,11 @@
     </tr>
 </table>
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
+</p>
+
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
