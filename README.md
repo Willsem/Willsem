@@ -29,10 +29,10 @@
 ### Dev Ops
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Code editors
 
 ![NeoVim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
