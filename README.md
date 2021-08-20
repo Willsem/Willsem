@@ -19,6 +19,8 @@
     <img alt="Willsem's Github Langs" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
 </p>
 
+## Skills
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
@@ -31,6 +33,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+
+## Usage
+
+### Operating systems
+
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Code editors
 
