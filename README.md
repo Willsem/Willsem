@@ -6,8 +6,6 @@
     <img alt="Willsem" src="img/willsem.png" />
 </p>
 
-> [<img src="img/bmstu.png" height="25px" valign="middle" /> <b valign="middle">BMSTU ICS7 LABORATORY WORKS</b>](https://github.com/bmstu-ics7)
-
 <table>
     <tr>
         <td valign="top">
