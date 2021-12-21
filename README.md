@@ -5,11 +5,12 @@
 <img alt="Willsem" src="img/willsem.png" />
 
 
-<img align="left" width="49%" alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="left" width="68%" alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<a align="right" href="https://git.io/streak-stats"><img width="48%" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
-
-<img align="right" width="32%" alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
+<p align="right">
+  <a href="https://git.io/streak-stats"><img width="29%" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
+  <img width="29%" alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
+ </p>
 
 <table>
   <tr>
