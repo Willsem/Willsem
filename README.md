@@ -2,24 +2,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willsem/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/willsem)
 
-<p align="center">
-    <img alt="Willsem" src="img/willsem.png" />
-</p>
+<img alt="Willsem" src="img/willsem.png" />
 
-<table>
-    <tr>
-        <td valign="top">
-            <img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-        </td>
-        <td valign="top">
-            <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
-        </td>
-    </tr>
-</table>
 
-<p align="center">
-    <img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
-</p>
+<img align="left" width="49%" alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<a align="right" href="https://git.io/streak-stats"><img width="48%" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Willsem&theme=gotham" /></a>
+
+<img align="right" width="32%" alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
 
 <table>
   <tr>
