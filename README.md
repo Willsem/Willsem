@@ -24,18 +24,20 @@
 <details>
   <summary><code>📈 GitHub Stats</code></summary>
 
+<br />
 <img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </details>
 
 <details>
-  <summary><code>🗂 Streak Stats</code></summary>
+  <summary><code>🗂 Github Contribution Streak</code></summary>
 
+<br />
 <a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Willsem&theme=gotham" /></a>
 </details>
 
 <details>
-  <summary><code>👨‍💻 GitHub Langs</code></summary>
+  <summary><code>👨‍💻 GitHub Most Used Langs</code></summary>
 
-<img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=6&hide=html,css,makefile,tex,jupyter notebook" />
+<br />
+<img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=html,css,makefile,tex,jupyter%20notebook" />
 </details>
-
