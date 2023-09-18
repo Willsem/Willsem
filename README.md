@@ -12,23 +12,10 @@
 
 <img alt="Willsem's info" src="img/info.svg" />
 
-<details>
-  <summary><code>📈 GitHub Stats</code></summary>
-
-<br />
-<img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</details>
-
-<details>
-  <summary><code>🗂 Github Contribution Streak</code></summary>
-
-<br />
-<a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Willsem&theme=gotham" /></a>
-</details>
-
-<details>
-  <summary><code>👨‍💻 GitHub Most Used Langs</code></summary>
-
-<br />
-<img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=html,css,makefile,tex,jupyter%20notebook" />
-</details>
+<table>
+  <tr>
+    <td valign="top"><img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
+    <td valign="top"><a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Willsem&theme=gotham" /></a></td>
+    <td valign="top"><img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=html,css,makefile,tex,jupyter%20notebook"/></td>
+  </tr>
+</table>
