@@ -14,8 +14,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
+    <td valign="top"><img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&rank_icon=github&custom_title=My%20Github%20Stats%20for%20last%20year" /></td>
     <td valign="top"><a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Willsem&theme=gotham" /></a></td>
-    <td valign="top"><img alt="Willsem's Github Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Willsem&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=html,css,makefile,tex,jupyter%20notebook"/></td>
   </tr>
 </table>
