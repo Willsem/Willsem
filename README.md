@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&rank_icon=github&custom_title=My%20Github%20Stats%20for%20last%20year" /></td>
-    <td valign="top"><a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Willsem&theme=gotham" /></a></td>
+    <td valign="top"><img alt="Willsem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Willsem&show_icons=true&hide_border=true&title_color=D4D4D4&icon_color=608B4E&text_color=D4D4D4&bg_color=1E1E1E&rank_icon=github&custom_title=My%20Github%20Stats%20for%20last%20year" /></td>
+    <td valign="top"><a href="https://git.io/streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Willsem&hide_border=true&background=1E1E1E&ring=608B4E&fire=608B4E&currStreakLabel=608B4E&currStreakNum=608B4E&sideNums=608B4E&dates=D4D4D4&sideLabels=608B4E&stroke=D4D4D4&excludeDaysLabel=D4D4D4)](https://git.io/streak-stats" /></a></td>
   </tr>
 </table>
